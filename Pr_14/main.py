@@ -113,8 +113,8 @@
 
 
 # Декораторы
-#import time
-
+# import time
+#
 # def timing_decorator(func):
 #     def wrapper(*args, **kwargs):
 #
@@ -134,7 +134,7 @@
 #     return sum([i ** 2 for i in range(n)])
 #
 # # Вызов функции
-# print(compute_square(10000))
+# print(compute_square(100000))
 
 
 # Заглушка
