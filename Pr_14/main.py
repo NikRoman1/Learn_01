@@ -153,4 +153,14 @@
 
 
 
+# import keyboard
+
+# while True:
+#     keyboard.wait("1")
+#     keyboard.write("\n The key '1' was pressed!")
+
+# recorded_events = keyboard.record("esc")
+# keyboard.play(recorded_events)
+
+
 
